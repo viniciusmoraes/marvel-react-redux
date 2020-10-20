@@ -1,0 +1,17 @@
+.list-container {
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid #ccc;
+
+  h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+
+  ul {
+    padding: 0;
+    li {
+      margin-top: 8px;
+    }
+  }
+}
